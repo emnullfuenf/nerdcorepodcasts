@@ -3,4 +3,4 @@
 
 Based on Google App engine (GAE), Python and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/). The service is simply transfering Nerdcore's podcast category RSS into a podcast-only RSS. Thus it's readable by common podcast apps like [Antennapod](http://antennapod.org).
 
-*Thanks to Réne Walter for the curation of the podcasts.*
+*Thanks to René Walter for the curation of the podcasts.*
